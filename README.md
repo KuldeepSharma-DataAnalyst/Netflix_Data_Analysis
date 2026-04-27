@@ -1,11 +1,11 @@
 # 🎬 Netflix Data Analysis using Python
 
-### 📌 Objective
+###  Objective
 Analyze Netflix’s dataset to find insights about movies, TV shows, genres, countries, and ratings.
 
 ---
 
-### 🧰 Tools & Libraries
+###  Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -15,7 +15,7 @@ Analyze Netflix’s dataset to find insights about movies, TV shows, genres, cou
 
 ---
 
-### 📊 Dataset Description
+###  Dataset Description
 The dataset (`netflix_data.csv`) contains 1,500 records with columns like:
 | Column | Description |
 |---------|-------------|
@@ -33,7 +33,7 @@ The dataset (`netflix_data.csv`) contains 1,500 records with columns like:
 
 ---
 
-### 📈 Steps Performed
+###  Steps Performed
 1. Import and explore dataset  
 2. Data cleaning and preparation  
 3. Visualization of content trends  
@@ -42,7 +42,7 @@ The dataset (`netflix_data.csv`) contains 1,500 records with columns like:
 
 ---
 
-### 📋 Insights
+###  Insights
 - Netflix’s content has grown rapidly post-2015.  
 - Movies slightly outnumber TV shows.  
 - Top genres include Drama and Comedy.  
@@ -50,12 +50,12 @@ The dataset (`netflix_data.csv`) contains 1,500 records with columns like:
 
 ---
 
-### 💡 Conclusion
+###  Conclusion
 This project highlights Netflix’s evolving global content strategy, genre diversity, and audience preferences.
 
 ---
 
-### 🚀 How to Run
+###  How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook Netflix_Data_Analysis.ipynb
