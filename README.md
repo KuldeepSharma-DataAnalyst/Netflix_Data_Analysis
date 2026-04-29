@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analysis using Python
 
-###  Objective
+### Objective
 Analyze Netflix’s dataset to find insights about movies, TV shows, genres, countries, and ratings.
 
 ---
